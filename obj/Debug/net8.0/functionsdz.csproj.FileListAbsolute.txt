@@ -1,0 +1,15 @@
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\functionsdz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\functionsdz.AssemblyInfoInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\functionsdz.AssemblyInfo.cs
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\functionsdz.csproj.CoreCompileInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\functionsdz.sourcelink.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\bin\Debug\net8.0\functionsdz.exe
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\bin\Debug\net8.0\functionsdz.deps.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\bin\Debug\net8.0\functionsdz.runtimeconfig.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\bin\Debug\net8.0\functionsdz.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\bin\Debug\net8.0\functionsdz.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\functionsdz.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\refint\functionsdz.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\functionsdz.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\functionsdz.genruntimeconfig.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\functionsdz\obj\Debug\net8.0\ref\functionsdz.dll
